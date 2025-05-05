@@ -1,3 +1,3 @@
 # first-demo
 my first repository 
-project by - Abhijit Girme
+: project by - Abhijit Girme
